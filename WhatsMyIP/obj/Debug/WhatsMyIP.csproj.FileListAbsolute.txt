@@ -1,0 +1,12 @@
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Debug\WhatsMyIP.exe.config
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Debug\WhatsMyIP.exe
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Debug\WhatsMyIP.pdb
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\MainWindow.baml
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\MainWindow.g.cs
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\App.g.cs
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP_MarkupCompile.cache
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.g.resources
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.Properties.Resources.resources
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.csproj.GenerateResource.Cache
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.exe
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Debug\WhatsMyIP.pdb

@@ -1,0 +1,16 @@
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Release\WhatsMyIP.exe.config
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Release\WhatsMyIP.exe
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Release\WhatsMyIP.pdb
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\MainWindow.baml
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\MainWindow.g.cs
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\App.g.cs
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP_MarkupCompile.cache
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.g.resources
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.Properties.Resources.resources
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.csproj.GenerateResource.Cache
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.exe
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.pdb
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Release\WhatsMyIP.exe.manifest
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\bin\Release\WhatsMyIP.application
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.exe.manifest
+c:\users\jemorgan\documents\visual studio 2013\Projects\WhatsMyIP\WhatsMyIP\obj\Release\WhatsMyIP.application
